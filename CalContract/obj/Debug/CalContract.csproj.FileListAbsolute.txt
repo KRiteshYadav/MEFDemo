@@ -1,0 +1,6 @@
+C:\Users\KY185041\source\repos\CalContract\CalContract\bin\Debug\CalContract.dll
+C:\Users\KY185041\source\repos\CalContract\CalContract\bin\Debug\CalContract.pdb
+C:\Users\KY185041\source\repos\CalContract\CalContract\obj\Debug\CalContract.csprojAssemblyReference.cache
+C:\Users\KY185041\source\repos\CalContract\CalContract\obj\Debug\CalContract.csproj.CoreCompileInputs.cache
+C:\Users\KY185041\source\repos\CalContract\CalContract\obj\Debug\CalContract.dll
+C:\Users\KY185041\source\repos\CalContract\CalContract\obj\Debug\CalContract.pdb

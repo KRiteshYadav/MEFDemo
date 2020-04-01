@@ -1,0 +1,9 @@
+C:\Users\KY185041\source\repos\CalContract\CalHelper\bin\Debug\CalHelper.dll
+C:\Users\KY185041\source\repos\CalContract\CalHelper\bin\Debug\CalHelper.pdb
+C:\Users\KY185041\source\repos\CalContract\CalHelper\bin\Debug\CalContract.dll
+C:\Users\KY185041\source\repos\CalContract\CalHelper\bin\Debug\CalContract.pdb
+C:\Users\KY185041\source\repos\CalContract\CalHelper\obj\Debug\CalHelper.csprojAssemblyReference.cache
+C:\Users\KY185041\source\repos\CalContract\CalHelper\obj\Debug\CalHelper.csproj.CoreCompileInputs.cache
+C:\Users\KY185041\source\repos\CalContract\CalHelper\obj\Debug\CalHelper.csproj.CopyComplete
+C:\Users\KY185041\source\repos\CalContract\CalHelper\obj\Debug\CalHelper.dll
+C:\Users\KY185041\source\repos\CalContract\CalHelper\obj\Debug\CalHelper.pdb
